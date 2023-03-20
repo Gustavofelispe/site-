@@ -1,13 +1,29 @@
 .imagemrick
-{width: 40%}
-.loucura
-{background-color: green;}
-h1 {text-align: center;}
-h2{background-color: azure;}
-p{font-size: 18px;}
+{
+        width: 25%}
 
-.paragrafo1{font-size: 30px;}
-.paragrafosteste{font-size: 16px;}
+        .corpao {
+                background-image:linear-gradient(blue, green);
+        }
+
+.loucura{
+        background-image: linear-gradient(green,blue);}
+
+h1 {
+        text-align: center; 
+  }
+
+h2{
+        background-color: azure;}
+
+p{
+        font-size: 18px;}
+
+.paragrafo1{
+        font-size: 30px;}
+
+.paragrafosteste{
+        font-size: 16px;}
 
 .lista{display: inline-block;
         margin: 0 16px;
