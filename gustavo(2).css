@@ -1,0 +1,41 @@
+.imagemrick
+{
+        width: 25%
+        
+}
+
+        .corpao {
+                background-image:linear-gradient(to left top black, white);
+        }
+
+.loucura{
+        background-image:(white);}
+
+h1 {
+        text-align: center; 
+  }
+
+h2{ 
+        text-align: center;
+        background-color: azure;
+}
+
+p{
+        font-size: 18px;}
+
+.paragrafo1{
+        font-size: 30px;}
+
+.paragrafosteste{
+        font-size: 16px;
+        text-align: center;
+}
+
+.lista{display: inline-block;
+        margin: 0 16px;
+}
+
+.rodape {
+
+        background-color: gray;
+}
